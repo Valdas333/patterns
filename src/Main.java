@@ -178,7 +178,6 @@ public class Main {
         }
     }
 
-
     public static void numberPrinterV4() {
         int counter = 2;
         for (int i = 1; i < 9; i++) {
@@ -224,7 +223,6 @@ public class Main {
         }
     }
 
-
     public static void main(String[] args) {
         hashPrinter1(8);
         hashPrinter2(8);
@@ -240,5 +238,4 @@ public class Main {
         numberPrinterV4();
 
     }
-
 }
